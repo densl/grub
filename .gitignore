@@ -1,3 +1,5 @@
+*~
+*.swp
 00_header
 10_*
 20_linux_xen
